@@ -1,0 +1,3 @@
+{
+  "mongoURL": "mongodb+srv://barath:barath@cluster0.zpvoi.mongodb.net/web?retryWrites=true&w=majority"
+}
